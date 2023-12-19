@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Johnpaul
 - 👀 I’m interested in mern stack development, but with more focus on backend
 - 🌱 I’m currently learning React, TypeScript, and Jest
-- 💞️ I’m looking to collaborate on any of your javascript full-stack project
+- 💞️ I’m looking to collaborate on any of your javascript full-stack project or internship opportunities
 - 📫 How to reach me indisputable.jay@gmail.com
 
 <!---
