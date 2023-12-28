@@ -14,7 +14,7 @@ I'm Johnpaul, a passionate software engineer with experience in RESTful API deve
 ## About me? ⚡
 📚 Final year CS Student.
 
-🎯 Aiming to become a full-stack MERN developer.
+🎯 Aiming to become a professional full-stack MERN developer.
 
 ♟️ Chess player.
 
