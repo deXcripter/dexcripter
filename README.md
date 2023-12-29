@@ -13,21 +13,22 @@ I'm Johnpaul, a passionate software engineer with experience in RESTful API deve
 
 ## About me? ⚡
 
-### Experience
+### - Experience
 
-- first  Tutorial Project - Built a RESTful API with Node.js and Express.js : [Tours API](https://github.com/debugger0x/Tours-API)
+- Personal Project : [Todo-list API](https://github.com/debugger0x/Todo-List-APP) Designed and developed a RESTful API using Node.js and Express.js
+- 
+- Tutorial Project - Built a RESTful API with Node.js and Express.js : [Tours API](https://github.com/debugger0x/Tours-API)
 
-- second Designed and developed a RESTful API using Node.js and Express.js for a Personal Project : [Todo-list API](https://github.com/debugger0x/Todo-List-APP)
+### - Languages, Frameworks, and Tools
 
-### Languages, Frameworks, and Tools
-#### Backend: Node.js, Express.js, Mongoose, TypeScript
-#### Frontend: React.js, HTML, CSS, TailwindCSS
-#### Database: MongoDB, SQL
-#### Version Control: Git
-#### OS: Ubuntu
+- BACKEND: Node.js, Express.js, Mongoose, TypeScript
+- FRONTEND: React.js, HTML, CSS, TailwindCSS
+- DATABASE: MongoDB, SQL
+- VERSION CONTROL: Git
+- OS: Ubuntu
 
 
-### Extra
+### - Extra
 ♟️ Plays chess for fun.
 
 
