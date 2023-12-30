@@ -10,29 +10,6 @@ I'm Johnpaul, a passionate software engineer with experience in RESTful API deve
 
 📫 Reach me with indisputable.jay@gmail.com
 
-
-## About me? ⚡
-
-### - Experience
-
-- Personal Project : [Todo-list API](https://github.com/debugger0x/Todo-List-APP) Designed and developed a RESTful API using Node.js and Express.js
-- 
-- Tutorial Project - Built a RESTful API with Node.js and Express.js : [Tours API](https://github.com/debugger0x/Tours-API)
-
-### - Languages, Frameworks, and Tools
-
-- BACKEND: Node.js, Express.js, Mongoose, TypeScript
-- FRONTEND: React.js, HTML, CSS, TailwindCSS
-- DATABASE: MongoDB, SQL
-- VERSION CONTROL: Git
-- OS: Ubuntu
-
-
-### - Extra
-♟️ Plays chess for fun.
-
-
-
 <!---
 debugger0x/debugger0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
