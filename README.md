@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Johnpaul, a passionate software engineer with experience in RESTful API development with NodeJS and Express, excellent data modeling with MongoDB, and developing single-page applications with React 🤖
+I'm Johnpaul, a passionate software engineer with experience in RESTful API development with NodeJS and Express, excellent data modeling with MongoDB, and experience in developing single-page applications with React 🤖
 
 👀 I'm Interested in collaborating and contributing to open-source projects.
 
