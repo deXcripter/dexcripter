@@ -1,14 +1,14 @@
 ## Hi there! 👋
 
-I'm Johnpaul, a passionate software engineer with experience in RESTful API development with NodeJS and Express, excellent data modeling with MongoDB, and experience in developing single-page applications with React 🤖
+I'm Johnpaul, a dedicated software engineer skilled in developing RESTful APIs using NodeJS and Express, proficient in data modeling with MongoDB, and experienced in crafting single-page applications with React 🤖
 
-👀 I'm Interested in collaborating and contributing to open-source projects.
+👀 I'm keen on collaborating and making contributions to open-source projects.
 
-🌱 Currently, I'm learning React, Jest, and TypeScript.
+🌱 Currently, I'm expanding my knowledge in React, Jest, and TypeScript.
 
-💞️ I'm also open to any backend job opportunities.
+💞️ I'm also open to exploring backend job opportunities.
 
-📫 Reach me with indisputable.jay@gmail.com
+📫 Feel free to contact me at indisputable.jay@gmail.com
 
 <!---
 debugger0x/debugger0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
