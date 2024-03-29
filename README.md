@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Johnpaul, a dedicated software engineer skilled in developing RESTful APIs using NodeJS and Express, proficient in data modeling with MongoDB, and experienced in crafting single-page applications with React 🤖
+I'm Johnpaul Nnaji, a dedicated software engineer skilled in developing RESTful APIs using NodeJS and Express, proficient in data modeling with MongoDB, and experienced in crafting single-page applications with React 🤖
 
 👀 I'm keen on collaborating and making contributions to open-source projects.
 
