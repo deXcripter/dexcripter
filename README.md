@@ -12,7 +12,7 @@ I'm Johnpaul Nnaji, a dedicated software engineer skilled in developing RESTful 
 
 ## Certifications
 
-![Screenshot_2024-04-09-23-16-09-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg](https://github.com/deXcripter/Build-Bootcamp/assets/133887442/663f4204-4a1f-4980-8862-c48030c91c81)
+![Screenshot_2024-04-09-23-16-09-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg](https://z
 
 - https://learn.mongodb.com/c/f_KbWe-zSlmXkS2sCVHfpA
 
