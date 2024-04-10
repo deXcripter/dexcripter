@@ -16,7 +16,7 @@ I'm Johnpaul Nnaji, a dedicated software engineer skilled in developing RESTful 
 
 - https://freecodecamp.org/certification/debugger0x/javascript-algorithms-and-data-structures
 
-![Uploading Screenshot_2024-04-09-23-16-09-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg…]()
+![Uploading Screenshot_2024-04-09-23-16-09-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg]()
 
 
 <!---
