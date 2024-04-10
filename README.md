@@ -10,14 +10,11 @@ I'm Johnpaul Nnaji, a dedicated software engineer skilled in developing RESTful 
 
 📫 Feel free to contact me at indisputable.jay@gmail.com
 
-## Certifications
+## My Certifications 🚀
 
 - https://learn.mongodb.com/c/f_KbWe-zSlmXkS2sCVHfpA
 
 - https://freecodecamp.org/certification/debugger0x/javascript-algorithms-and-data-structures
-
-![Uploading Screenshot_2024-04-09-23-16-09-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg]()
-
 
 <!---
 debugger0x/debugger0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
