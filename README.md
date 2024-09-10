@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=deXcripter&icon=8&color=11)](https://visitcount.itsvg.in)
 
 # Hi there 👋🏽
-I'm Johnpaul Nnaji, a dedicated software engineer skilled in developing RESTful APIs using NodeJS and Express, proficient in data modeling with MongoDB, and experienced in crafting single-page applications with React 🤖<br><br>👀 I'm keen on collaborating and making contributions to open-source projects.<br><br>🌱 Currently, I'm expanding my knowledge in React, Jest, and TypeScript.<br><br>💞️ I'm also open to exploring backend job opportunities.<br><br>📫 Feel free to contact me at indisputable.jay@gmail.com
+I'm Johnpaul Nnaji, a dedicated software engineer skilled in developing RESTful APIs using NodeJS and Express, proficient in data modeling with MongoDB, and experienced in crafting single-page applications with React.<br><br>👀 I'm keen on collaborating and making contributions to open-source projects.<br><br>🌱 Currently, I'm expanding my knowledge in React, Jest, and TypeScript.<br><br>💞️ I'm also open to exploring backend job opportunities.<br><br>📫 Feel free to contact me at indisputable.jay@gmail.com
 
 
 # 🌐 Socials 
