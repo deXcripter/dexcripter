@@ -1,8 +1,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=deXcripter&icon=8&color=11)](https://visitcount.itsvg.in)
 
-# Hi there 👋🏽
-I'm Johnpaul Nnaji, a dedicated software engineer skilled in developing RESTful APIs using NodeJS and Express, proficient in data modeling with MongoDB, and experienced in crafting single-page applications with React.<br><br>👀 I'm keen on collaborating and making contributions to open-source projects.<br><br>🌱 Currently, I'm expanding my knowledge in React, Jest, and TypeScript.<br><br>💞️ I'm also open to exploring backend job opportunities.<br><br>📫 Feel free to contact me at indisputable.jay@gmail.com
+Passionate backend developer and recent Computer Science graduate with a knack for crafting efficient, scalable applications. I thrive on building robust RESTful APIs and managing databases, primarily using the MERN stack. My curiosity drives me to explore the cutting-edge realms of Web3 and cybersecurity, where I aim to enhance user privacy and security in the digital landscape. Always eager to tackle new challenges, I’m excited about leveraging my skills to create innovative solutions that push the boundaries of technology.
+
+Message me on ![X](https://x.com/dexcripter)
 
 
 # 🌐 Socials 
