@@ -3,7 +3,7 @@
 
 Passionate backend developer and recent Computer Science graduate with a knack for crafting efficient, scalable applications. I thrive on building robust RESTful APIs and managing databases, primarily using the MERN stack. My curiosity drives me to explore the cutting-edge realms of Web3 and cybersecurity, where I aim to enhance user privacy and security in the digital landscape. Always eager to tackle new challenges, I’m excited about leveraging my skills to create innovative solutions that push the boundaries of technology.
 
-Message me on ![X](https://x.com/dexcripter)
+Say hi to me on ![twitter](https://x.com/dexcripter)
 
 
 # 🌐 Socials 
