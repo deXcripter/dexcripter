@@ -1,10 +1,6 @@
-Passionate developer and recent Computer Science graduate with a knack for crafting efficient, scalable applications. I thrive on building robust RESTful APIs and managing databases, primarily using the MERN stack.
+A passionate full-stack developer and computer science graduate with a strong foundation in building efficient, scalable, and robust web applications primarily using the MERN stack. 
 
-My curiosity drives me to explore the cutting-edge realms of Web3 and cybersecurity, where I aim to enhance user privacy and security in the digital landscape.
-
-Always eager to tackle new challenges, I’m excited about leveraging my skills to create innovative solutions that push the boundaries of technology.
-
-Say hi to me on [X](https://x.com/dexcripter)
+My curiosity and love for learning and evolving drives me to explore areas like Web3 and cybersecurity, where I aim to make a real difference in user’s privacy and security. I’m always looking for new challenges and opportunities to apply my skills in innovative ways that can truly impact the user’s experience. 
 
 # 🌐 Socials
 
